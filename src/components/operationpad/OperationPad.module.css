@@ -1,0 +1,9 @@
+.OperationPad{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+
+button{
+    padding: 1rem;
+}
