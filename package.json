@@ -1,4 +1,5 @@
 {
+  "homepage":"http://madrakas.github.io/bit_09_calculator/",
   "name": "bit_09_calculator",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "dfeploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
