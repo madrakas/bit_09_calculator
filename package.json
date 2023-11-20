@@ -1,5 +1,5 @@
 {
-  "homepage":"http://madrakas.github.io/bit_09_calculator/",
+  "homepage": "http://madrakas.github.io/bit_09_calculator/",
   "name": "bit_09_calculator",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
   }
 }
