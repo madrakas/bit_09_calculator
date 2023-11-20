@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bit_09_calculator/static/css/main.a35990ef.css",
+    "main.js": "/bit_09_calculator/static/js/main.a9846720.js",
+    "index.html": "/bit_09_calculator/index.html",
+    "main.a35990ef.css.map": "/bit_09_calculator/static/css/main.a35990ef.css.map",
+    "main.a9846720.js.map": "/bit_09_calculator/static/js/main.a9846720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a35990ef.css",
+    "static/js/main.a9846720.js"
+  ]
+}
